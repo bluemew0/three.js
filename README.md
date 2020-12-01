@@ -1,5 +1,5 @@
 # three.js
-changes:
+changes to light.html:
 * turned the sphere into a cone
 * added background color
 * changed some materials
